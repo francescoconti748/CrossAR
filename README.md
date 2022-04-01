@@ -9,7 +9,7 @@ ArXiv:
 Submitted to Signal Processing Letters
 
 If you are using this code, please cite our work as:
-...................................................................
+S. Colonnese, F. Conti, M. Biagi and G. Scarano, "Cross-Burg Algorithm for Single-Input Two-Outputs Autoregressive Modeling," in IEEE Signal Processing Letters, vol. 28, pp. 1640-1644, 2021, doi: 10.1109/LSP.2021.3101128.
 
 
 Refer to: conti.1655885@studenti.uniroma1.it
@@ -34,6 +34,7 @@ The repository contains:
 3) Two MATLAB Demos running the Simulink model with different parameters to reproduce results presented in our work;
     - 3a) DEMO_noise_insensitive_analysis.m;
     - 3b) DEMO_Cross_delta_analysis.m
+   Please, open the CrossAR model before to run the Demo codes.
     
 4) The library Adam Danz (2021), boxplotGroup
   (https://www.mathworks.com/matlabcentral/fileexchange/74437-boxplotgroup), MATLAB Central File Exchange. Retrieved January 4, 2021.
